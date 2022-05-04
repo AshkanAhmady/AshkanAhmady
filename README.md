@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120">
 
 ## &#x1f4c8; GitHub Stats
 
