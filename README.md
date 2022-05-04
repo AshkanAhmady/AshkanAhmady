@@ -25,7 +25,6 @@
 <br>
 
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150">
-<hr>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -35,8 +34,6 @@
 <a href="">
    <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanAhmady&layout=compact&theme=dark" />
 </a>
-
-<hr>
 
 ## :link: Get in touch
 
