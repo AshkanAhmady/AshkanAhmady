@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi, I'm Ashkan 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
 </h1> 
 <h3 align="center">A frontEnd developer in sanandaj | Iran</h3>
 <hr>
