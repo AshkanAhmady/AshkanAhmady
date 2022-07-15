@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=533B78)
 ![](https://img.shields.io/badge/Code-tailwind-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38BDF8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=E8D44D)
+![](https://img.shields.io/badge/Code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=5ED4F3)
 ![](https://img.shields.io/badge/Code-redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=7248B6)
 
