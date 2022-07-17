@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Ashkan 
 </h1> 
-<h3 align="center">A frontEnd developer in sanandaj | Iran</h3>
+<h3 align="center">A frontEnd developer</h3>
 <hr>
 <br>
 
