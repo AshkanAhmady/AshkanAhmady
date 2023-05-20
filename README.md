@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=5ED4F3)
 ![](https://img.shields.io/badge/Code-redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=7248B6)
-![](https://img.shields.io/badge/Code-Toolkit-informational?style=for-the-badge&logo=Toolkit&logoColor=white&color=6438B1)
+![](https://img.shields.io/badge/Code-toolkit-informational?style=for-the-badge&logo=redux&logoColor=white&color=7248B6)
 ![](https://img.shields.io/badge/Code-nextjs-informational?style=for-the-badge&logo=nextjs&logoColor=white&color=e5e5e5)
 
 <br>
