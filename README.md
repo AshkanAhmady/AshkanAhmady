@@ -5,8 +5,7 @@
 <hr>
 <br>
 
-- I'm currently working as a freelancer and learning react.js & typescript
-- And I love dealing with different challenges and solving them
+- I love dealing with different challenges and solving them
 
 <br>
 
