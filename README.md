@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Code-toolkit-informational?style=for-the-badge&logo=redux&logoColor=white&color=7248B6)
 ![](https://img.shields.io/badge/Code-nextjs-informational?style=for-the-badge&logo=nextjs&logoColor=white&color=e5e5e5)
 
-![](https://www.codewars.com/users/Ashkan4117/badges/micro)
+![](https://www.codewars.com/users/Ashkan4117/badges/small)
 
 <br>
 
